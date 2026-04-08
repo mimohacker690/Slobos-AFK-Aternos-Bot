@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LifestealSMP-mNNl.aternos.me:47231",
-    "port": 27586,
+    "ip": "LifestealSMP-mNNl.aternos.me",
+    "port": 47231,
     "version": "",
     "try-creative": false
   },
